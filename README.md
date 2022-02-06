@@ -1,5 +1,6 @@
 - 👋 Привет, я Данила Егоренко
 - 👀 Занимаюсь фронтенд-разработкой более 2-х лет
+- 😎 Знаком с принципами CI/CD, Agile, SCRUM, Waterfall
 - 🌱 Стек: JS, TS, React, Redux, Git, Webpack, SASS/SCSS. Ранее изучал Vue, Firebase CLI/API, Babel, PostCSS
 - 💞️ Любимые книги: "Рефакторинг" - Мартин Фаулер, "Учим паттерны" - Лидия Халли и Эдди Османи
 - [<img src="https://pngicon.ru/file/uploads/vk-256x256.png" width="25"/>](https://vk.com/danila_egorenko)
