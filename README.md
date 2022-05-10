@@ -4,7 +4,7 @@
 * 🌱 Стек:
   + TS / JS
   + Next.js / React
-  + Redux
+  + Redux Toolkit
   + Git
   + Webpack
   + SASS/SCSS
