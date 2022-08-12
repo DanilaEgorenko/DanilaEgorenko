@@ -21,7 +21,7 @@
   + "{Вы не знаете JS} Асинхронная обработка & оптимизация" - Кайл Симпсон
  
  # Бейджи LeetCode
-<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.png" width="150px"/>
+<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.png" width="150px"/><img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="150px"/>
 
 # Ссылки
 [<img src="https://pngicon.ru/file/uploads/vk-256x256.png" width="30"/>](https://vk.com/danila_egorenko)
