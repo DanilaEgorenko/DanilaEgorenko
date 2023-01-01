@@ -27,4 +27,4 @@
   + "{Вы не знаете JS} Асинхронная обработка & оптимизация" - Кайл Симпсон
  
  # Бейджи LeetCode
-<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.png" width="150px"/><img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-100.png" width="150px"/>
+<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.png" width="150px"/><img src="https://leetcode.com/static/images/badges/dcc-2022-8.png" width="150px"/><img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-100.png" width="150px"/>
