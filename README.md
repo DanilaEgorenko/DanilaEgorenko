@@ -11,13 +11,12 @@
 - 😎 Знаком с принципами CI/CD, Agile, SCRUM, Waterfall
 * 🌱 Стек:
   + TS / JS
-  + Next.js / React
-  + Redux Toolkit
+  + Next.js / React (React Router, Redux Toolkit, etc.)
   + Git
   + Webpack
   + SASS/SCSS
-  + Знаком с Vue, Firebase CLI/API, Babel, PostCSS, BEM
-  + Есть опыт работы с PHP, Django, C++
+  + Знаком с Vue (Vue Router, Vuetify, Vuex), Firebase CLI/API, Babel, PostCSS, BEM
+  + Есть опыт работы с PHP / Laravel, C++, Python / Django
 * 💞️ Любимые книги: 
   + "Рефакторинг" - Мартин Фаулер
   + "Учим паттерны" - Лидия Халли и Эдди Османи
