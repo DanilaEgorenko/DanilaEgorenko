@@ -14,9 +14,15 @@
   + Next.js / React (React Router, Redux Toolkit, etc.)
   + Git
   + Webpack
-  + SASS/SCSS
-  + Знаком с Vue (Vue Router, Vuetify, Vuex), Firebase CLI/API, Babel, PostCSS, BEM
-  + Есть опыт работы с PHP / Laravel, C++, Python / Django
+  + SASS/SCSS/PostCSS
+  + BEM
+ * 🥋 Есть опыт работы с: 
+  + PHP / Laravel
+  + C++
+  + Python / Django
+  + Vue (Vue Router, Vuetify, Vuex)
+  + Firebase CLI/API
+  + Babel
 * 💞️ Любимые книги: 
   + "Рефакторинг" - Мартин Фаулер
   + "Учим паттерны" - Лидия Халли и Эдди Османи
