@@ -16,7 +16,7 @@
   + Webpack
   + SASS/SCSS/PostCSS
   + BEM
- * 🥋 Есть опыт работы с: 
+* 🥋 Есть опыт работы с: 
   + PHP / Laravel
   + C++
   + Python / Django
