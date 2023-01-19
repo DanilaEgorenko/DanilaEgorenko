@@ -5,14 +5,14 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="30"/>](https://gitlab.com/DanilaEgorenko)
 
 # Обо мне
-- 👀 Занимаюсь фронтенд-разработкой с декабря 2019
 - 🏆 Финалист Moscow City Hack 2022
 - 😍 Регулярно участвую в хакатонах и ИТ-эвентах, митапах и конференциях
 - 😎 Знаком с принципами CI/CD, Agile, SCRUM, Waterfall
 * 🌱 Стек:
   + TS / JS
   + Next.js / React (React Router, Redux Toolkit, etc.)
-  + Git
+  + Vue 3 (Vue Router, Vuetify, Vuex etc.)
+  + Git / GitHub Actions
   + Webpack
   + SASS/SCSS/PostCSS
   + BEM
@@ -20,9 +20,6 @@
   + PHP / Laravel
   + C++
   + Python / Django
-  + Vue (Vue Router, Vuetify, Vuex)
-  + Firebase CLI/API
-  + Babel
 * 💞️ Любимые книги: 
   + "Рефакторинг" - Мартин Фаулер
   + "Учим паттерны" - Лидия Халли и Эдди Османи
