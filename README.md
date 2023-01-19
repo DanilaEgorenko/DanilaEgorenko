@@ -7,7 +7,7 @@
 # Обо мне
 - 🏆 Финалист Moscow City Hack 2022
 - 😍 Регулярно участвую в хакатонах и ИТ-эвентах, митапах и конференциях
-- 😎 Знаком с принципами CI/CD, Agile, SCRUM, Waterfall
+- 😎 Знаком с принципами Dependency Injection, CI/CD, Agile, SCRUM, Waterfall
 * 🌱 Стек:
   + TS / JS
   + Next.js / React (React Router, Redux Toolkit, etc.)
