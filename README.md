@@ -30,6 +30,7 @@
  
  # Бейджи LeetCode
 <div>
+  <img src="https://github.com/DanilaEgorenko/DanilaEgorenko/assets/65312989/df374d75-64de-4045-b15e-bbe743fa4b9e" width="150px"/>
   <img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.png" width="150px"/>
 <img src="https://leetcode.com/static/images/badges/dcc-2022-8.png" width="150px"/>*
 <img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-100.png" width="150px"/>
