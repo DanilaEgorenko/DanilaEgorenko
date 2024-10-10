@@ -5,7 +5,7 @@
 [<img src="https://user-images.githubusercontent.com/65312989/150600219-64ccfb17-98ef-47c0-a5cb-266c098dc997.png" width="30"/>](https://t.me/danilaEgorenko)
 
 # Обо мне
-- Иногда пишу статьи и новости на Хабр, работаю в ПСБ
+- Иногда пишу статьи и новости на Хабр, работаю в ПСБ на Angular
 
  # Бейджи LeetCode
 <div>
