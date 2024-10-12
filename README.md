@@ -7,6 +7,11 @@
 # Обо мне
 - Иногда пишу статьи и новости на Хабр, работаю в ПСБ на Angular
 
+# Хакатоны
+- Moscow City Hack 2022 (финалист)
+- Telegram Hack'a'TON 2022 (18 место из 2463)
+- Лидеры цифровой трансформации 2023 (участник)
+
  # Бейджи LeetCode
 <div>
   <img src="https://github.com/DanilaEgorenko/DanilaEgorenko/assets/65312989/df374d75-64de-4045-b15e-bbe743fa4b9e" width="150px"/>
